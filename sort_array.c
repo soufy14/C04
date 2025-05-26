@@ -26,7 +26,10 @@ int main() {
     printf("Tableau trié :");
     for (i =0; i < n; i++) {
         printf("%d ", tab[i]); 
+
     }
+    printf("\n");
+
     return 0;
 }
 // Trier un tableau d’entiers par ordre croissant.
