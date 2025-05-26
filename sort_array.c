@@ -23,7 +23,7 @@ int main() {
            }
         }
     }
-    printf("Tableau trié :");
+    printf("Tableau trié : ");
     for (i =0; i < n; i++) {
         printf("%d ", tab[i]); 
 
